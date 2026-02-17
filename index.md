@@ -1,6 +1,6 @@
 # Pebble Tools
 
-Chrome extensions developer
+**Chrome Extensions Developer**
 
 ---
 
@@ -8,9 +8,28 @@ Chrome extensions developer
 
 Pebble Tools develops simple, privacy-focused Chrome extensions that solve everyday problems.
 
-### Our Extensions
+We create lightweight browser tools that are:
+- Easy to use
+- Privacy-friendly (no data collection)
+- Free with optional premium features
 
-- **Hide Gmail Spam Count** - Remove distracting badge numbers from Gmail sidebar
+---
+
+## Products & Services
+
+### Hide Gmail Spam Count
+
+A Chrome extension that removes distracting badge numbers from Gmail's left sidebar.
+
+**Features:**
+- Hide unread count badges from Spam, Inbox, and other labels
+- Remove bold styling from labels
+- Simple on/off toggle
+- No data collection
+
+**Price:** Free (with optional donation support)
+
+**Download:** [Chrome Web Store](https://chromewebstore.google.com/)
 
 ---
 
@@ -54,10 +73,22 @@ Our extensions do not use any third-party services, APIs, or analytics tools.
 
 If we make changes to this privacy policy, we will update the "Last updated" date above.
 
-### Contact
+---
 
-If you have questions about this privacy policy, please contact us at:
-- Ko-fi: https://ko-fi.com/pebbletools
+## Customer Support
+
+If you have questions or need assistance, please contact us:
+
+- **Email:** arctica.df.ac+dev@gmail.com
+- **Ko-fi:** https://ko-fi.com/pebbletools
+
+We typically respond within 2-3 business days.
+
+---
+
+## Refund Policy
+
+Due to the nature of digital products, we generally do not offer refunds after purchase. However, if you experience significant issues with our products, please contact us and we will work with you to resolve the problem.
 
 ---
 
@@ -65,7 +96,7 @@ If you have questions about this privacy policy, please contact us at:
 
 | 項目 | 内容 |
 |------|------|
-| 販売業者名 | ペブルツールズ |
+| 販売業者名 | ペブルツールズ (Pebble Tools) |
 | 運営統括責任者 | ペブルツールズ |
 | 所在地 | 請求があった場合は遅滞なく開示いたします |
 | 電話番号 | 請求があった場合は遅滞なく開示いたします |
