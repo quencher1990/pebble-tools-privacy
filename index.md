@@ -29,13 +29,15 @@ A Chrome extension that removes distracting badge numbers from Gmail's left side
 
 **Price:** Free (with optional donation support)
 
+**Operating Requirements:** Google Chrome browser (latest version recommended), Windows / macOS / Linux / ChromeOS
+
 **Download:** [Chrome Web Store](https://chromewebstore.google.com/)
 
 ---
 
 ## Privacy Policy
 
-**Last updated: February 10, 2026**
+**Last updated: February 17, 2026**
 
 ### Overview
 
@@ -82,13 +84,7 @@ If you have questions or need assistance, please contact us:
 - **Email:** arctica.df.ac+dev@gmail.com
 - **Ko-fi:** https://ko-fi.com/pebbletools
 
-We typically respond within 2-3 business days.
-
----
-
-## Refund Policy
-
-Due to the nature of digital products, we generally do not offer refunds after purchase. However, if you experience significant issues with our products, please contact us and we will work with you to resolve the problem.
+Response time: Within 2-3 business days
 
 ---
 
@@ -97,15 +93,17 @@ Due to the nature of digital products, we generally do not offer refunds after p
 | 項目 | 内容 |
 |------|------|
 | 販売業者名 | ペブルツールズ (Pebble Tools) |
-| 運営統括責任者 | ペブルツールズ |
+| 運営統括責任者 | 請求があった場合は遅滞なく開示いたします |
 | 所在地 | 請求があった場合は遅滞なく開示いたします |
 | 電話番号 | 請求があった場合は遅滞なく開示いたします |
 | メールアドレス | arctica.df.ac+dev@gmail.com |
-| 販売価格 | 各サービスページに記載 |
+| 販売価格 | 各商品ページに記載（税込表示） |
+| 商品代金以外の必要料金 | なし |
 | 支払方法 | クレジットカード（Stripe経由） |
 | 支払時期 | 購入時に即時決済 |
 | 商品の引渡時期 | 決済完了後、即時利用可能 |
-| 返品・キャンセルについて | デジタル商品の性質上、購入後の返品・返金は原則としてお受けしておりません。ただし、サービスに重大な不具合がある場合は個別に対応いたします。 |
+| 動作環境 | Google Chrome ブラウザ（最新版推奨）、対応OS: Windows / macOS / Linux / ChromeOS |
+| 返品・交換について | 【お客様都合による返品・交換】デジタル商品の性質上、購入後の返品・返金は原則としてお受けしておりません。【不良品・サービス不具合の場合】サービスに重大な不具合がある場合は、メール（arctica.df.ac+dev@gmail.com）にてお問い合わせください。状況を確認の上、返金または代替対応をいたします。 |
 
 ---
 
